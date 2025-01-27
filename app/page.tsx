@@ -1,4 +1,5 @@
 "use client";
+
 import Head from "next/head";
 import {
   Container,
@@ -7,6 +8,7 @@ import {
   Description,
   CodeTag,
 } from "./_components/sharedstyles";
+
 import Cards from "./_components/cards";
 
 export default function Home() {
